@@ -1,6 +1,6 @@
 [submodule "wxc"]
 	path = wxc
-	url = ./wxc
+	url = https://github.com/larsr/wxc.git
 [submodule "wxcore"]
 	path = wxcore
-	url = ./wxcore
+	url = https://github.com/larsr/wxcore.git
