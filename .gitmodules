@@ -1,0 +1,6 @@
+[submodule "wxc"]
+	path = wxc
+	url = ./wxc
+[submodule "wxcore"]
+	path = wxcore
+	url = ./wxcore
